@@ -1,6 +1,3 @@
-Certainly! Here's a clean, manually typed version of the `README.md` file without any icons or special formatting:
-
----
 
 # HR Analytics Dashboard
 
